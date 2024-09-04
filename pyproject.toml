@@ -13,7 +13,7 @@ include = [
 ]
 keywords = ["email", "library", "provider", "service", "thelittlehackers"]
 license = "SEE LICENSE IN <LICENSE.md>"
-name = "thelittlehackers-email-service-provide-core"
+name = "thelittlehackers-email-service-provider-core"
 packages = [{ include = "thelittlehackers", from = "src" }]
 readme = "README.md"
 repository = "https://github.com/the-little-hackers/library_email-service-provider-core_python"
