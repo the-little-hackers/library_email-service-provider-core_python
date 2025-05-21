@@ -637,7 +637,7 @@ thelittlehackers-core = {git = "https://github.com/the-little-hackers/library_th
 type = "git"
 url = "https://github.com/the-little-hackers/library_email-templating_python.git"
 reference = "HEAD"
-resolved_reference = "d38aa124fc26b35be95b71ad658880002910591e"
+resolved_reference = "9dc6d728a7c02ea68f56fbf6e857cf4fc8935725"
 
 [[package]]
 name = "toml"
