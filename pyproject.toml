@@ -21,8 +21,8 @@ version = "1.0.0"
 
 [tool.poetry.dependencies]
 python = ">=3.12"
-thelittlehackers-core = {git = "git@github.com:the-little-hackers/library_thelittlehackers-core_python.git"}
-thelittlehackers-email-templating = {git = "git@github.com:the-little-hackers/library_email-templating_python.git"}
+thelittlehackers-core = {git = "https://github.com/the-little-hackers/library_thelittlehackers-core_python.git"}
+#thelittlehackers-email-templating = {git = "https://github.com/the-little-hackers/library_email-templating_python.git"}
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.8.0"
