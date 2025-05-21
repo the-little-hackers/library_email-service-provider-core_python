@@ -604,7 +604,7 @@ name = "thelittlehackers-core"
 version = "1.0.14"
 description = "Collection of reusable Python components to share with Python projects"
 optional = false
-python-versions = ">=3.12"
+python-versions = ">=3.12,<4.0"
 files = []
 develop = false
 
@@ -618,14 +618,14 @@ toml = "^0.10.2"
 type = "git"
 url = "https://github.com/the-little-hackers/library_thelittlehackers-core_python.git"
 reference = "HEAD"
-resolved_reference = "dc4fa491d07a6115fc9d0ad8894f0672c7342650"
+resolved_reference = "89900792ee67452251ff1d15122d5b375a813037"
 
 [[package]]
 name = "thelittlehackers-email-templating"
 version = "1.0.28"
 description = "Python Email Templating Library"
 optional = false
-python-versions = ">=3.12"
+python-versions = ">=3.12,<4.0"
 files = []
 develop = false
 
@@ -637,7 +637,7 @@ thelittlehackers-core = {git = "https://github.com/the-little-hackers/library_th
 type = "git"
 url = "https://github.com/the-little-hackers/library_email-templating_python.git"
 reference = "HEAD"
-resolved_reference = "a8b5b506cb1ac9d62e22ec075359768183bef950"
+resolved_reference = "d38aa124fc26b35be95b71ad658880002910591e"
 
 [[package]]
 name = "toml"
